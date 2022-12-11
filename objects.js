@@ -1,7 +1,7 @@
 // objects
 // property:value
 
-var dog ={
+var dog = {
     "name":"Lory",
     "legs": 4,
     "age": 15,
@@ -32,3 +32,5 @@ console.log(dog)
 
 delete dog.lastName;
 console.log(dog)
+
+
