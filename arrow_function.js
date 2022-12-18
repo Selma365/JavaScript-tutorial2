@@ -24,13 +24,6 @@ var arrow_example = (arr1,arr2) => arr1.concat(arr2);
 console.log(example([1,2],[3,4]));
 console.log(arrow_example([1,2],[3,4]));
 
-//map filter reduce 
-//rest operator
-// spread operator
-//this.name
-//getter setter
-
-
 //import and export instead of require(...)
 const ispis = export_function(8);
 console.log(ispis)
